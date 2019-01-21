@@ -6,6 +6,9 @@
 //  Copyright © 2019 TJ. All rights reserved.
 //
 /*
+ * 参考链接:https://www.jianshu.com/p/35a28cf0a22f
+ */
+/*
  subscriber 美[səb'skraɪbɚ] n. 订户；签署者；捐献者
  disposable 美[dɪ'spozəbl] adj. 可任意处理的；可自由使用的；用完即可丢弃的
  multicast ['mʌltikɑ:st, -kæst] n. 多路广播；多路传送
